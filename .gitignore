@@ -1,0 +1,9 @@
+### IntelliJ IDEA ###
+.idea/
+
+### Java ###
+target/
+
+.mvn/
+mvnw
+mvnw.cmd
